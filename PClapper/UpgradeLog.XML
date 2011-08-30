@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PClapper">
+</Property><Property Name="Solution File" Value="W:\Perso\Projets\2009 - PClapper\PClapper\PClapper.sln">
+</Property><Property Name="Date" Value="mercredi 18 mars 2009">
+</Property><Property Name="Time" Value="13:04">
+</Property></Properties><Event ErrorLevel="0" Project="PClapper" Source="PClapper.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PClapper" Source="PClapper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ShutDownPlugin" Source="..\ShutDownPlugin\ShutDownPlugin.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ShutDownPlugin" Source="..\ShutDownPlugin\ShutDownPlugin.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PluginTemplate" Source="..\PluginTemplate\PluginTemplate.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PluginTemplate" Source="..\PluginTemplate\PluginTemplate.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PClapper.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PClapper.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="PClapper.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ShutDownPlugin" Source="..\ShutDownPlugin\ShutDownPlugin.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PluginTemplate" Source="..\PluginTemplate\PluginTemplate.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,7 @@
+C:\Users\PCaponetti\Downloads\PClapper\PluginTemplate\bin\Debug\PluginTemplate.dll
+C:\Users\PCaponetti\Downloads\PClapper\PluginTemplate\bin\Debug\PluginTemplate.pdb
+C:\Users\PCaponetti\Downloads\PClapper\PluginTemplate\bin\Debug\ClapperPluginInterface.dll
+C:\Users\PCaponetti\Downloads\PClapper\PluginTemplate\bin\Debug\ClapperPluginInterface.pdb
+C:\Users\PCaponetti\Downloads\PClapper\PluginTemplate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PCaponetti\Downloads\PClapper\PluginTemplate\obj\Debug\PluginTemplate.dll
+C:\Users\PCaponetti\Downloads\PClapper\PluginTemplate\obj\Debug\PluginTemplate.pdb

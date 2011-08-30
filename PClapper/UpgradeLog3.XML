@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PClapper">
+</Property><Property Name="Solution File" Value="C:\Users\PCaponetti\Downloads\PClapper\PClapper\PClapper.sln">
+</Property><Property Name="Date" Value="Monday, August 29, 2011">
+</Property><Property Name="Time" Value="23:30:45 PM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="Project file successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup1\ClapperPluginInterface.csproj">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj.user" Description="Project user file successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup1\ClapperPluginInterface.csproj.user">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup1\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\IClapperPlugin.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup1\IClapperPlugin.cs">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\App.ico" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup1\App.ico">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

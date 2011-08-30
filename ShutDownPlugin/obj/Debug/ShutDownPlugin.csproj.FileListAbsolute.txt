@@ -1,0 +1,7 @@
+C:\Users\PCaponetti\Downloads\PClapper\ShutDownPlugin\bin\Debug\ShutDownPlugin.dll
+C:\Users\PCaponetti\Downloads\PClapper\ShutDownPlugin\bin\Debug\ShutDownPlugin.pdb
+C:\Users\PCaponetti\Downloads\PClapper\ShutDownPlugin\bin\Debug\ClapperPluginInterface.dll
+C:\Users\PCaponetti\Downloads\PClapper\ShutDownPlugin\bin\Debug\ClapperPluginInterface.pdb
+C:\Users\PCaponetti\Downloads\PClapper\ShutDownPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PCaponetti\Downloads\PClapper\ShutDownPlugin\obj\Debug\ShutDownPlugin.dll
+C:\Users\PCaponetti\Downloads\PClapper\ShutDownPlugin\obj\Debug\ShutDownPlugin.pdb

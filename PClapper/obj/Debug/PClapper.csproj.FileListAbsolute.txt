@@ -1,0 +1,43 @@
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.exe
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.pdb
+W:\Perso\Projets\2009 - PClapper\PClapper\bin\Debug\PClapper.exe
+W:\Perso\Projets\2009 - PClapper\PClapper\bin\Debug\PClapper.pdb
+W:\Perso\Projets\2009 - PClapper\PClapper\bin\Debug\ClapperPluginInterface.dll
+W:\Perso\Projets\2009 - PClapper\PClapper\bin\Debug\ClapperPluginInterface.pdb
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\ResolveAssemblyReference.cache
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.ClapActionOptions.resources
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.ClapNodeOptions.resources
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.PClapperMain.resources
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.csproj.GenerateResource.Cache
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.Properties.Resources.resources
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.ClapPatternControl.resources
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.ActionsSettingsDialog.resources
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.SettingsDialog.resources
+W:\Perso\Projets\2009 - PClapper\PClapper\bin\Debug\PClapper.exe.config
+W:\Perso\Projets\2009 - PClapper\PClapper\bin\Debug\PClapper.exe.manifest
+W:\Perso\Projets\2009 - PClapper\PClapper\bin\Debug\PClapper.application
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.exe.manifest
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.application
+W:\Perso\Projets\2009 - PClapper\PClapper\obj\Debug\PClapper.GUI.AudioDevicePicker.resources
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\bin\Debug\PClapper.exe.config
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.exe
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.pdb
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\bin\Debug\PClapper.exe.manifest
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\bin\Debug\PClapper.application
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\bin\Debug\PClapper.exe
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\bin\Debug\PClapper.pdb
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\bin\Debug\ClapperPluginInterface.dll
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\bin\Debug\ClapperPluginInterface.pdb
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.GUI.AudioDevicePicker.resources
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.ClapActionOptions.resources
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.ActionsSettingsDialog.resources
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.SettingsDialog.resources
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.ClapNodeOptions.resources
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.ClapPatternControl.resources
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.PClapperMain.resources
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.Properties.Resources.resources
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.exe.manifest
+C:\Users\PCaponetti\Downloads\PClapper\PClapper\obj\Debug\PClapper.application

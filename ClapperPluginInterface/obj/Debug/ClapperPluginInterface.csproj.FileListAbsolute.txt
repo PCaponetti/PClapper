@@ -1,0 +1,5 @@
+C:\Users\PCaponetti\Downloads\PClapper\ClapperPluginInterface\bin\Debug\ClapperPluginInterface.dll
+C:\Users\PCaponetti\Downloads\PClapper\ClapperPluginInterface\bin\Debug\ClapperPluginInterface.pdb
+C:\Users\PCaponetti\Downloads\PClapper\ClapperPluginInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PCaponetti\Downloads\PClapper\ClapperPluginInterface\obj\Debug\ClapperPluginInterface.dll
+C:\Users\PCaponetti\Downloads\PClapper\ClapperPluginInterface\obj\Debug\ClapperPluginInterface.pdb

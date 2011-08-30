@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<ClapActions>
+  <Pairs>
+    <NumClaps>1 Claps</NumClaps>
+    <ActionName>Open F:\Program Files\Promixis\Girder5\event.exe</ActionName>
+    <ActionData>CLAP_1</ActionData>
+  </Pairs>
+  <Pairs>
+    <NumClaps>2 Claps</NumClaps>
+    <ActionName>Open F:\Program Files\Promixis\Girder5\event.exe</ActionName>
+    <ActionData>CLAP_2</ActionData>
+  </Pairs>
+  <Pairs>
+    <NumClaps>3 Claps</NumClaps>
+    <ActionName>Open F:\Program Files\Promixis\Girder5\event.exe</ActionName>
+    <ActionData>CLAP_3</ActionData>
+  </Pairs>
+  <Pairs>
+    <NumClaps>4 Claps</NumClaps>
+    <ActionName>Open F:\Program Files\Promixis\Girder5\event.exe</ActionName>
+    <ActionData>CLAP_4</ActionData>
+  </Pairs>
+  <Pairs>
+    <NumClaps>5 Claps</NumClaps>
+    <ActionName>Open F:\Program Files\Promixis\Girder5\event.exe</ActionName>
+    <ActionData>CLAP_5</ActionData>
+  </Pairs>
+  <Pairs>
+    <NumClaps>6 Claps</NumClaps>
+    <ActionName>Open F:\Program Files\Promixis\Girder5\event.exe</ActionName>
+    <ActionData>CLAP_6</ActionData>
+  </Pairs>
+</ClapActions>

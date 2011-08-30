@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PClapper">
+</Property><Property Name="Solution File" Value="C:\Users\PCaponetti\Downloads\PClapper\PClapper\PClapper.sln">
+</Property><Property Name="User Options File" Value="C:\Users\PCaponetti\Downloads\PClapper\PClapper\PClapper.suo">
+</Property><Property Name="Date" Value="Tuesday, August 30, 2011">
+</Property><Property Name="Time" Value="0:12 AM">
+</Property><Property Name="Log Number" Value="4">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PClapper.sln" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PClapper.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PClapper.suo" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PClapper.suo">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="PClapper.csproj" Description="Project file successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PClapper.csproj">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="PClapper.csproj.user" Description="Project user file successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PClapper.csproj.user">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Action.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Action.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="ActionsSettings.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ActionsSettings.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="ClapActionManager.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ClapActionManager.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\AudioDevicePicker.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\AudioDevicePicker.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\AudioDevicePicker.Designer.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\AudioDevicePicker.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\ClapActionOptions.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\ClapActionOptions.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\ActionsSettingsDialog.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\ActionsSettingsDialog.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="ClapListener.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ClapListener.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\SettingsDialog.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\SettingsDialog.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\ClapNodeOptions.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\ClapNodeOptions.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="ClapPattern.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ClapPattern.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\ClapPatternControl.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\ClapPatternControl.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\ClapPatternControl.Designer.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\ClapPatternControl.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Properties\Actions.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Properties\Actions.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Wav lib\FifoStream.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Wav lib\FifoStream.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Listener.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Listener.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="OpenFileProgAction.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\OpenFileProgAction.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="PClapperMain.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PClapperMain.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="PluginManager.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PluginManager.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Properties\Settings.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Properties\Settings.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Wav lib\WaveIn.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Wav lib\WaveIn.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Wav lib\WaveNative.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Wav lib\WaveNative.cs">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Resources\micd.ico" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Resources\micd.ico">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Resources\trayIconMuted.ico" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Resources\trayIconMuted.ico">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Resources\speakerd.ico" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Resources\speakerd.ico">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Resources\clap.wav" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Resources\clap.wav">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="app.config" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\app.config">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="PClapper_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PClapper_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Resources\App.ico" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Resources\App.ico">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Resources\AppAlt.ico" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Resources\AppAlt.ico">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Resources\micdA.ico" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Resources\micdA.ico">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\AudioDevicePicker.resx" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\AudioDevicePicker.resx">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\ClapActionOptions.resx" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\ClapActionOptions.resx">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\ActionsSettingsDialog.resx" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\ActionsSettingsDialog.resx">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\SettingsDialog.resx" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\SettingsDialog.resx">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\ClapNodeOptions.resx" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\ClapNodeOptions.resx">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="GUI\ClapPatternControl.resx" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\GUI\ClapPatternControl.resx">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="PClapperMain.resx" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PClapperMain.resx">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PClapper" Source="PClapper.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="PClapper" Source="PClapper.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="1" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="Project file successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ClapperPluginInterface\ClapperPluginInterface.csproj">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj.user" Description="Project user file successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ClapperPluginInterface\ClapperPluginInterface.csproj.user">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ClapperPluginInterface\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\IClapperPlugin.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ClapperPluginInterface\IClapperPlugin.cs">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\App.ico" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ClapperPluginInterface\App.ico">
+</Event><Event ErrorLevel="0" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="ClapperPluginInterface" Source="..\ClapperPluginInterface\ClapperPluginInterface.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="1" Project="ShutDownPlugin" Source="..\ShutDownPlugin\ShutDownPlugin.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="ShutDownPlugin" Source="..\ShutDownPlugin\ShutDownPlugin.csproj" Description="Project file successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ShutDownPlugin\ShutDownPlugin.csproj">
+</Event><Event ErrorLevel="0" Project="ShutDownPlugin" Source="..\ShutDownPlugin\ShutDownPlugin.csproj.user" Description="Project user file successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ShutDownPlugin\ShutDownPlugin.csproj.user">
+</Event><Event ErrorLevel="0" Project="ShutDownPlugin" Source="..\ShutDownPlugin\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ShutDownPlugin\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ShutDownPlugin" Source="..\ShutDownPlugin\ShutDown.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\ShutDownPlugin\ShutDown.cs">
+</Event><Event ErrorLevel="0" Project="ShutDownPlugin" Source="..\ShutDownPlugin\ShutDownPlugin.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ShutDownPlugin" Source="..\ShutDownPlugin\ShutDownPlugin.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="PluginTemplate" Source="..\PluginTemplate\PluginTemplate.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="PluginTemplate" Source="..\PluginTemplate\PluginTemplate.csproj" Description="Project file successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PluginTemplate\PluginTemplate.csproj">
+</Event><Event ErrorLevel="0" Project="PluginTemplate" Source="..\PluginTemplate\PluginTemplate.csproj.user" Description="Project user file successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PluginTemplate\PluginTemplate.csproj.user">
+</Event><Event ErrorLevel="0" Project="PluginTemplate" Source="..\PluginTemplate\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PluginTemplate\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PluginTemplate" Source="..\PluginTemplate\Class1.cs" Description="File successfully backed up as C:\Users\PCaponetti\Downloads\PClapper\PClapper\Backup2\PluginTemplate\Class1.cs">
+</Event><Event ErrorLevel="0" Project="PluginTemplate" Source="..\PluginTemplate\PluginTemplate.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PluginTemplate" Source="..\PluginTemplate\PluginTemplate.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PClapper.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="PClapper.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="ShutDownPlugin" Source="..\ShutDownPlugin\ShutDownPlugin.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PluginTemplate" Source="..\PluginTemplate\PluginTemplate.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
