@@ -1,0 +1,11 @@
+Hey all,
+
+This is a project I started way back when.
+
+It uses winmm.dll for microphone input, has a super-simple clap recognition algorithm and can do pretty much anything when a pattern is recognized.
+
+I'm looking to get this project working on more configurations as I only tested it as being solid on my old WinXP box.  It works for the most part on my Win7 box with no modifications but would love it if someone would get it to not freeze when trying to dispose of the audio buffers, and also get it to work on Vista.
+
+contact me if you have any questions:  paul.caponetti@gmail.com
+
+Thanks for your interest!
